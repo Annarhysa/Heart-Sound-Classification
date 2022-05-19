@@ -1,0 +1,2 @@
+# Heart-Sound-Classification
+This script demonstrates the complete workflow for developing an embedded machine learning application, including acquiring the data, extracting features, exploring various algorithms, tuning to get a model with good performance, and  deploying the model in a prototype application. Specifically, we develop a classifier of heart sounds into 'Normal' and 'Abnormal', which could be used in the medical practice to monitor patients who are at increased risk of dangerous heart conditions, and remove the need to have a skilled clinician present.
